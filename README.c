@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
+teste
 	<title>Botões Sim e Não</title>
 	<style>
 		.container {
